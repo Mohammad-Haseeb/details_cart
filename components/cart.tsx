@@ -1,6 +1,7 @@
 import { Box, Text, Flex, Divider } from "@chakra-ui/react";
 import Image from "next/image";
 import pencil from "./../public/pencil.jpg";
+
 export default function Cart() {
   return (
     <>
